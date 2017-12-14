@@ -18,7 +18,7 @@ Workshops
 
 - **Why AI Will Make it Possible to Reprogram the Human Genome** by Brendan J Frey
 
-[[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1553236368100930/)    [[Youtube_Video]](https://www.youtube.com/watch?v=QJLQBSQJEus)    Slides
+  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1553236368100930/)    [[Youtube_Video]](https://www.youtube.com/watch?v=QJLQBSQJEus)    Slides
 
 - **The Trouble with Bias** by Kate Crawford
   
