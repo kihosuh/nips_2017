@@ -90,7 +90,7 @@
   
   Facebook_Video · [[Youtube]](https://www.youtube.com/watch?v=A3ekFcZ3KNw) · Slides
 
-- **GANs for Creativity and Design** by Ian 
+- **GANs for Creativity and Design** by Ian Goodfellow
 
   Facebook_Video · Youtube · [[Slides]](http://www.iangoodfellow.com/slides/2017-12-08-creativity.pdf)
 
