@@ -57,7 +57,7 @@ Workshops
 
 - **A Primer on Optimal Transport** by Marco Cuturi, Justin M Solomon
   
-  Facebook_Video  Youtube  Slides
+  Facebook_Video · Youtube · Slides
 
 - **Deep Probabilistic Modelling with Gaussian Processes** by Neil D Lawrence
   
@@ -65,7 +65,7 @@ Workshops
 
 - **Fairness in Machine Learning** by Solon Barocas, Moritz Hardt
   
-  Facebook_Video  Youtube  Slides
+  Facebook_Video · Youtube · Slides
 
 - **Statistical Relational Artificial Intelligence: Logic, Probability and Computation** by Luc De Raedt, David Poole, Kristian Kersting, Sriraam Natarajan
   
@@ -73,15 +73,15 @@ Workshops
 
 - **Engineering and Reverse-Engineering Intelligence Using Probabilistic Programs, Program Induction, and Deep Learning** by Josh Tenenbaum, Vikash K Mansinghka
   
-  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1552446408179926/)  Youtube  Slides
+  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1552446408179926/) · Youtube · Slides
 
 - **Differentially Private Machine Learning: Theory, Algorithms and Applications** by Kamalika Chaudhuri, Anand D Sarwate
   
-  Facebook_Video  Youtube  Slides
+  Facebook_Video · Youtube · Slides
 
 - **Geometric Deep Learning on Graphs and Manifolds** by Michael Bronstein, Joan Bruna, arthur szlam, Xavier Bresson, Yann LeCun
   
-  Facebook_Video  Youtube_Video  Slides
+  Facebook_Video · Youtube · Slides
 
 ## Symposiums
 
