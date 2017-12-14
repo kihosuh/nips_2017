@@ -1,5 +1,5 @@
 # NIPS 2017
-Accumulation of sources from NIPS! Feel free to pull requests or make issues! Feedbacks are also welcome!
+Accumulation of sources from NIPS! Feel free to pull requests, make issues, give feedbacks!
 
 ## Table of Contents
 - [Tutorials](#tutorials)
