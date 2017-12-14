@@ -61,7 +61,7 @@
 
 - **Random Features for Large-Scale Kernel Machines** by Ali Rahimi, Benjamin Recht (Test of Time Award)
   
-  Facebook_Video · [[Youtube]](https://www.youtube.com/watch?v=Qi1Yry33TQE) · Slides
+  Facebook_Video · [[Youtube]](https://www.youtube.com/watch?v=Qi1Yry33TQE) · Slides · [[Related Blog by inFERENCe]](http://www.inference.vc/my-thoughts-on-alchemy/)
 
 - **The Trouble with Bias** by Kate Crawford
   
