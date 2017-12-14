@@ -5,7 +5,7 @@
 - [Tutorials](#tutorials)
 - [Invited Talks](#invited-talks)
 - [Symposiums and Workshops](#symposiums-and-workshops)
-- [Blogs and Notes and Podcasts](#blogs-and-notes-and-podcasts)
+- [Blogs, Notes, and Podcasts](#blogs,-notes,-and-podcasts)
 
 
 ## Tutorials
@@ -99,7 +99,7 @@
   Facebook_Video · Youtube · [[Slides]](http://learningsys.org/nips17/assets/slides/dean-nips17.pdf)
 
 
-## Blogs and Notes
+## Blogs, Notes, and Podcasts
 - **NIPS 2017 — notes and thoughs** by Olgalitech https://olgalitech.wordpress.com/2017/12/12/nips-2017-notes-and-thoughs/
 
 - **NIPS 2017 Notes** by David Abel https://cs.brown.edu/~dabel/blog/posts/misc/nips_2017.pdf
