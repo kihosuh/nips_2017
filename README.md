@@ -82,6 +82,8 @@ Workshops
 - **Geometric Deep Learning on Graphs and Manifolds** by Michael Bronstein, Joan Bruna, arthur szlam, Xavier Bresson, Yann LeCun
   
   Facebook_Video · Youtube · Slides
+  
+  - This website is a treasure box for geometric deep learning. Check it out: http://geometricdeeplearning.com/
 
 ## Symposiums
 
