@@ -2,10 +2,10 @@
 
 
 ## Table of Contents
-Invited Talks
-Tutorials
-Symposiums
-Workshops
+- [Invited Talks](#invited-talks)
+- [Tutorials](#tutorials)
+- [Workshops](#workshops)
+- [blogs](#blogs)
 
 ## Invtied Talks
 - **Opening Remarks / Powering the next 100 years** by Terrence Sejnowki / John Platt
@@ -85,6 +85,9 @@ Workshops
   
   This website is a treasure box for geometric deep learning. Check out http://geometricdeeplearning.com/
 
-## Symposiums
 
 ## Workshops
+
+
+
+## Blogs
