@@ -4,8 +4,8 @@
 ## Table of Contents
 - [Tutorials](#tutorials)
 - [Invited Talks](#invited-talks)
-- [Workshops](#workshops)
-- [Blogs/Notes](#blogs-and-notes)
+- [Symposiums and Workshops](#symposiums-and-workshops)
+- [Blogs and Notes](#blogs-and-notes)
 
 
 ## Tutorials
@@ -82,17 +82,17 @@
 - **On Bayesian Deep Learning and Deep Bayesian Learning** by Yee Whye Teh
   
   [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1555493854541848/) · [[Youtube]](https://www.youtube.com/watch?v=YJnddoa8sHk) · Slides
-  
-- **GANs for Creativity and Design** by Ian Goodfellow
-  Facebook_Video · Youtube · [[Slides]](http://www.iangoodfellow.com/slides/2017-12-08-creativity.pdf)
+
+
+## Symposiums and Workshops 
 
 - **AlphaZero - Mastering Games without human knowledge** by David Silver
   
   Facebook_Video · [[Youtube]](https://www.youtube.com/watch?v=A3ekFcZ3KNw) · Slides
 
+- **GANs for Creativity and Design** by Ian 
 
-## Workshops
-
+  Facebook_Video · Youtube · [[Slides]](http://www.iangoodfellow.com/slides/2017-12-08-creativity.pdf)
 
 
 ## Blogs and Notes
