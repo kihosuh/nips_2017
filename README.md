@@ -1,2 +1,16 @@
-# nips_2017
-videos, slides, and others from NIPS 2017
+# NIPS 2017
+
+
+## Table of Contents
+
+
+## Keynotes
+
+
+## Invited Talks
+
+
+## Tutorials
+
+
+## Workshops
