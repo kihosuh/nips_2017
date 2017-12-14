@@ -1,11 +1,12 @@
 # NIPS 2017
 Accumulation of sources from NIPS 2017 in Long Beach, CA. Check out more about NIPS on https://nips.cc/
-Feel free to pull requests, make issues or give feedbacks!
+Currently collecting and feel free to pull requests, make issues or give feedbacks!
 
 ## Table of Contents
 - [Tutorials](#tutorials)
 - [Invited Talks](#invited-talks)
 - [Symposiums and Workshops](#symposiums-and-workshops)
+- [Orals and Spotlights](#orals-and-spotlights)
 - [Blogs and Podcasts](#blogs-and-podcasts)
 
 
@@ -107,6 +108,11 @@ Feel free to pull requests, make issues or give feedbacks!
 
   Facebook_Video · [[Youtube]](https://www.youtube.com/watch?v=rhNxt0VccsE) · Slides
 
+
+## Orals and Spotlights
+
+- **Videos of a number of papers** 
+  [[Video]](https://nips.cc/Conferences/2017/Videos)
 
 ## Blogs and Podcasts
 - **NIPS 2017 — notes and thoughs** by Olgalitech https://olgalitech.wordpress.com/2017/12/12/nips-2017-notes-and-thoughs/
