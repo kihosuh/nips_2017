@@ -30,7 +30,7 @@ Workshops
 
 - **Deep Learning for Robotics** by Pieter Abbeel
   
-  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1554594181298482/) · Youtube · Slides
+  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1554594181298482/) · Youtube · [[Slides]](https://www.dropbox.com/s/fdw7q8mx3x4wr0c/2017_12_xx_NIPS-keynote-final.pdf?dl=0)
 
 - **Learning State Representations** by Yael Niv
   
@@ -49,7 +49,7 @@ Workshops
 
 - **Deep Learning: Practice and Trends** by Nando de Freitas, Scott Reed, Oriol Vinyals
   
-  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1552060484885185/) · [[Youtube]](https://www.youtube.com/watch?v=YJnddoa8sHk) · Slides
+  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1552060484885185/) · [[Youtube]](https://www.youtube.com/watch?v=YJnddoa8sHk) · [[Slides]] (https://docs.google.com/presentation/d/e/2PACX-1vQMZsWfjjLLz_wi8iaMxHKawuTkdqeA3Gw00wy5dBHLhAkuLEvhB7k-4LcO5RQEVFzZXfS6ByABaRr4/pub?slide=id.g2b178fe261_0_1280)
 
 - **Reinforcement Learning with People** by Emma Brunskill
   
@@ -61,11 +61,11 @@ Workshops
 
 - **Deep Probabilistic Modelling with Gaussian Processes** by Neil D Lawrence
   
-  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1552223308202236/) · Youtube · Slides
+  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1552223308202236/) · Youtube · [[Slides]](http://inverseprobability.com/talks/lawrence-nips17/deep-probabilistic-modelling-with-gaussian-processes.html)
 
 - **Fairness in Machine Learning** by Solon Barocas, Moritz Hardt
   
-  Facebook_Video · Youtube · Slides
+  Facebook_Video · Youtube · [[Slides]](http://mrtz.org/nips17/#/)
 
 - **Statistical Relational Artificial Intelligence: Logic, Probability and Computation** by Luc De Raedt, David Poole, Kristian Kersting, Sriraam Natarajan
   
