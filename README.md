@@ -39,6 +39,9 @@
 - **On Bayesian Deep Learning and Deep Bayesian Learning** by Yee Whye Teh
   
   [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1555493854541848/) · [[Youtube]](https://www.youtube.com/watch?v=YJnddoa8sHk) · Slides
+  
+- **GANs for Creativity and Design** by Ian Goodfellow
+  Facebook_Video · Youtube · [[Slides]](http://www.iangoodfellow.com/slides/2017-12-08-creativity.pdf)
 
 - **AlphaZero - Mastering Games without human knowledge** by David Silver
   
@@ -91,5 +94,7 @@
 
 
 ## Blogs and Notes
-NIPS 2017 — notes and thoughs https://olgalitech.wordpress.com/2017/12/12/nips-2017-notes-and-thoughs/
+- NIPS 2017 — notes and thoughs by Olgalitech https://olgalitech.wordpress.com/2017/12/12/nips-2017-notes-and-thoughs/
+
+- **NIPS 2017 Notes** by David Abel https://cs.brown.edu/~dabel/blog/posts/misc/nips_2017.pdf
 
