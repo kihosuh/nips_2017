@@ -18,15 +18,15 @@ Workshops
 
 - **Random Features for Large-Scale Kernel Machines** by Ali Rahimi, Benjamin Recht (Test of Time Award)
   
-  Facebook_Video  [[Youtube]](https://www.youtube.com/watch?v=Qi1Yry33TQE)  Slides
+  Facebook_Video · [[Youtube]](https://www.youtube.com/watch?v=Qi1Yry33TQE) · Slides
 
 - **The Trouble with Bias** by Kate Crawford
   
-  Facebook_Video  [[Youtube]](https://www.youtube.com/watch?v=6Uao14eIyGc)  Slides
+  Facebook_Video · [[Youtube]](https://www.youtube.com/watch?v=6Uao14eIyGc) · Slides
 
 - **The Unreasonable Effectiveness of Structure** by Lise Getoor
   
-  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1554329184658315/) · Youtube · Slides
+  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1554329184658315/) · [[Youtube]](https://www.youtube.com/watch?v=t4k5LKCpboc) · Slides
 
 - **Deep Learning for Robotics** by Pieter Abbeel
   
