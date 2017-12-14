@@ -5,7 +5,7 @@
 - [Tutorials](#tutorials)
 - [Invited Talks](#invited-talks)
 - [Symposiums and Workshops](#symposiums-and-workshops)
-- [Blogs and Notes](#blogs-and-notes)
+- [Blogs and Notes and Podcasts](#blogs-and-notes-and-podcasts)
 
 
 ## Tutorials
@@ -93,10 +93,15 @@
 - **GANs for Creativity and Design** by Ian Goodfellow
 
   Facebook_Video · Youtube · [[Slides]](http://www.iangoodfellow.com/slides/2017-12-08-creativity.pdf)
+  
+- **Machine Learning for Systems and Systems for Machine Learning** by Jeff Dean
+  
+  Facebook_Video · Youtube · [[Slides]](http://learningsys.org/nips17/assets/slides/dean-nips17.pdf)
 
 
 ## Blogs and Notes
-- NIPS 2017 — notes and thoughs by Olgalitech https://olgalitech.wordpress.com/2017/12/12/nips-2017-notes-and-thoughs/
+- **NIPS 2017 — notes and thoughs** by Olgalitech https://olgalitech.wordpress.com/2017/12/12/nips-2017-notes-and-thoughs/
 
 - **NIPS 2017 Notes** by David Abel https://cs.brown.edu/~dabel/blog/posts/misc/nips_2017.pdf
 
+- **데이터지능 팟캐스트 E6: Deep learning in NIPS2017** hosted by Jin Young Kim and Terry Um (in Korean) https://www.youtube.com/watch?v=Vm0gQ2eUtBs
