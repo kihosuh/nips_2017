@@ -1,5 +1,5 @@
 # NIPS 2017
-
+Accumulation of sources from NIPS! Feel free to pull requests or make issues! Feedbacks are also welcome!
 
 ## Table of Contents
 - [Tutorials](#tutorials)
@@ -111,3 +111,5 @@
 - **NIPS 2017 Notes** by David Abel https://cs.brown.edu/~dabel/blog/posts/misc/nips_2017.pdf
 
 - **데이터지능 팟캐스트 E6: Deep learning in NIPS2017** hosted by Jin Young Kim and Terry Um (in Korean) https://www.youtube.com/watch?v=Vm0gQ2eUtBs
+
+- **NIPS 2017 Summary! (unless an "official" one gets posted, and then remove this dreck)** https://www.reddit.com/r/MachineLearning/comments/7j2v74/d_nips_2017_summary_unless_an_official_one_gets/
