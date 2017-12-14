@@ -1,5 +1,6 @@
 # NIPS 2017
-Accumulation of sources from NIPS 2017 in Long Beach, CA. Feel free to pull requests, make issues or give feedbacks!
+Accumulation of sources from NIPS 2017 in Long Beach, CA. Check out more about NIPS on https://nips.cc/
+Feel free to pull requests, make issues or give feedbacks!
 
 ## Table of Contents
 - [Tutorials](#tutorials)
