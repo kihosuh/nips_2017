@@ -2,20 +2,15 @@
 
 
 ## Table of Contents
-Keynotes
 Invited Talks
 Tutorials
 Symposiums
 Workshops
 
-## Keynotes and Opening Remarks
-- **Opening Remarks** by Terrence Sejnowki
+## Invtied Talks
+- **Opening Remarks / Powering the next 100 years** by Terrence Sejnowki / John Platt
+  
   [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1552610871496813/) · Youtube · Slides
-
-## Invited Talks
-
-- **Powering the next 100 years** by John Platt
-  Facebook_Video · Youtube · Slides
 
 - **Why AI Will Make it Possible to Reprogram the Human Genome** by Brendan J Frey
 
