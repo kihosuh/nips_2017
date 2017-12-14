@@ -14,6 +14,7 @@ Workshops
 ## Invited Talks
 
 - **Powering the next 100 years** by John Platt
+  
   Facebook_Video  Youtube_Video  Slides
 
 - **Why AI Will Make it Possible to Reprogram the Human Genome** by Brendan J Frey
