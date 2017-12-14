@@ -100,6 +100,9 @@
   
 - **NSML: A Machine Learning Platform That Enables You to Focus on Your Models** by Nako Sung
   Facebook_Video · [[Youtube]](https://www.youtube.com/watch?v=3Qub0wL9Gwc) · Slides
+  
+- **Teaching Artificial Intelligence to Run (NIPS 2017)** by CrowdAI
+  Facebook_Video · [[Youtube]](https://www.youtube.com/watch?v=rhNxt0VccsE) · Slides
 
 
 ## Blogs and Podcasts
