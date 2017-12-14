@@ -16,9 +16,7 @@ Workshops
 - **Powering the next 100 years** by John Platt
   Facebook_Video  Youtube_Video  Slides
 
-- **Why AI Will Make it Possible to Reprogram the Human Genome** by Brendan J Frey
-  
-  Facebook_Video  [[Youtube_Video]](https://www.youtube.com/watch?v=QJLQBSQJEus)  Slides
+- **Why AI Will Make it Possible to Reprogram the Human Genome**, Brendan J Frey, [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1553236368100930/)  [[Youtube_Video]](https://www.youtube.com/watch?v=QJLQBSQJEus)  Slides
 
 - **The Trouble with Bias by Kate** Crawford
   
