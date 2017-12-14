@@ -91,3 +91,5 @@
 
 
 ## Blogs and Notes
+NIPS 2017 — notes and thoughs https://olgalitech.wordpress.com/2017/12/12/nips-2017-notes-and-thoughs/
+
