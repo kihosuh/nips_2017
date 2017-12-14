@@ -16,7 +16,7 @@ Workshops
 
   [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1553236368100930/) · [[Youtube]](https://www.youtube.com/watch?v=QJLQBSQJEus) · Slides
 
-- **Random Features fro Large-Scale Kernel Machines** by Ali Rahimi, Benjamin Recht (Test of Time Award)
+- **Random Features for Large-Scale Kernel Machines** by Ali Rahimi, Benjamin Recht (Test of Time Award)
   
   Facebook_Video  [[Youtube]](https://www.youtube.com/watch?v=Qi1Yry33TQE)  Slides
 
@@ -26,30 +26,30 @@ Workshops
 
 - **The Unreasonable Effectiveness of Structure** by Lise Getoor
   
-  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1554329184658315/) · Youtube_Video · Slides
+  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1554329184658315/) · Youtube · Slides
 
 - **Deep Learning for Robotics** by Pieter Abbeel
   
-  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1554594181298482/) · Youtube_Video · Slides
+  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1554594181298482/) · Youtube · Slides
 
 - **Learning State Representations** by Yael Niv
   
-  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1555427447881822/) · Youtube_Video · Slides
+  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1555427447881822/) · Youtube · Slides
 
 - **On Bayesian Deep Learning and Deep Bayesian Learning** by Yee Whye Teh
   
-  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1555493854541848/) · Youtube_Video · Slides
+  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1555493854541848/) · [[Youtube]](https://www.youtube.com/watch?v=YJnddoa8sHk) · Slides
 
 - **AlphaZero - Mastering Games without human knowledge** by David Silver
   
-  Facebook_Video · Youtube_Video · Slides
+  Facebook_Video · [[Youtube]](https://www.youtube.com/watch?v=A3ekFcZ3KNw) · Slides
 
 
 ## Tutorials
 
 - **Deep Learning: Practice and Trends** by Nando de Freitas, Scott Reed, Oriol Vinyals
   
-  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1552060484885185/) · Youtube · Slides
+  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1552060484885185/) · [[Youtube]](https://www.youtube.com/watch?v=YJnddoa8sHk) · Slides
 
 - **Reinforcement Learning with People** by Emma Brunskill
   
