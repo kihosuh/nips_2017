@@ -113,8 +113,7 @@ Currently collecting and feel free to pull requests, make issues or give feedbac
 ## Orals and Spotlights
 
 - **Videos of a number of papers** 
-
-  [[Video]](https://nips.cc/Conferences/2017/Videos)
+  [[Video]](https://nips.cc/Conferences/2017/Videos)
 
 ## Blogs and Podcasts
 - **NIPS 2017 — notes and thoughs** by Olgalitech https://olgalitech.wordpress.com/2017/12/12/nips-2017-notes-and-thoughs/
