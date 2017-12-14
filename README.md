@@ -16,6 +16,10 @@ Workshops
 
   [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1553236368100930/) · [[Youtube]](https://www.youtube.com/watch?v=QJLQBSQJEus) · Slides
 
+- **Random Features fro Large-Scale Kernel Machines** by Ali Rahimi, Benjamin Recht (Test of Time Award)
+  
+  Facebook_Video  [[Youtube]](https://www.youtube.com/watch?v=Qi1Yry33TQE)  Slides
+
 - **The Trouble with Bias** by Kate Crawford
   
   Facebook_Video  [[Youtube]](https://www.youtube.com/watch?v=6Uao14eIyGc)  Slides
