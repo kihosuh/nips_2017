@@ -18,7 +18,7 @@ Workshops
 
 - **The Trouble with Bias** by Kate Crawford
   
-  Facebook_Video  Youtube  Slides
+  Facebook_Video  [[Youtube]](https://www.youtube.com/watch?v=6Uao14eIyGc)  Slides
 
 - **The Unreasonable Effectiveness of Structure** by Lise Getoor
   
