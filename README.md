@@ -99,9 +99,11 @@ Accumulation of sources from NIPS! Feel free to pull requests, make issues, give
   Facebook_Video · Youtube · [[Slides]](http://learningsys.org/nips17/assets/slides/dean-nips17.pdf)
   
 - **NSML: A Machine Learning Platform That Enables You to Focus on Your Models** by Nako Sung
+
   Facebook_Video · [[Youtube]](https://www.youtube.com/watch?v=3Qub0wL9Gwc) · Slides
   
 - **Teaching Artificial Intelligence to Run (NIPS 2017)** by CrowdAI
+
   Facebook_Video · [[Youtube]](https://www.youtube.com/watch?v=rhNxt0VccsE) · Slides
 
 
