@@ -5,7 +5,7 @@
 - [Invited Talks](#invited-talks)
 - [Tutorials](#tutorials)
 - [Workshops](#workshops)
-- [blogs](#blogs)
+- [Blogs/Notes](#blogs-and-notes)
 
 ## Invtied Talks
 - **Opening Remarks / Powering the next 100 years** by Terrence Sejnowki / John Platt
@@ -90,4 +90,4 @@
 
 
 
-## Blogs
+## Blogs and Notes
