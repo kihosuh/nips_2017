@@ -113,6 +113,7 @@ Currently collecting and feel free to pull requests, make issues or give feedbac
 ## Orals and Spotlights
 
 - **Videos of a number of papers** 
+
   [[Video]](https://nips.cc/Conferences/2017/Videos)
 
 ## Blogs and Podcasts
