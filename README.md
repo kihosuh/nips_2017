@@ -83,7 +83,7 @@ Workshops
   
   Facebook_Video · Youtube · Slides
   
-  - This website is a treasure box for geometric deep learning. Check it out: http://geometricdeeplearning.com/
+  This website is a treasure box for geometric deep learning. Check out http://geometricdeeplearning.com/
 
 ## Symposiums
 
