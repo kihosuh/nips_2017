@@ -97,6 +97,9 @@
 - **Machine Learning for Systems and Systems for Machine Learning** by Jeff Dean
   
   Facebook_Video · Youtube · [[Slides]](http://learningsys.org/nips17/assets/slides/dean-nips17.pdf)
+  
+- **NSML: A Machine Learning Platform That Enables You to Focus on Your Models** by Nako Sung
+  Facebook_Video · [[Youtube]](https://www.youtube.com/watch?v=3Qub0wL9Gwc) · Slides
 
 
 ## Blogs and Podcasts
