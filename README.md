@@ -22,7 +22,7 @@ Workshops
 
 - **The Trouble with Bias** by Kate Crawford
   
-  Facebook_Video  Youtube_Video  Slides
+  Facebook_Video  Youtube  Slides
 
 - **The Unreasonable Effectiveness of Structure** by Lise Getoor
   
@@ -49,35 +49,35 @@ Workshops
 
 - **Deep Learning: Practice and Trends** by Nando de Freitas, Scott Reed, Oriol Vinyals
   
-  Facebook_Video  Youtube_Video  Slides
-
-- **A Primer on Optimal Transport** by Marco Cuturi, Justin M Solomon
-  
-  Facebook_Video  Youtube_Video  Slides
+  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1552060484885185/) · Youtube · Slides
 
 - **Reinforcement Learning with People** by Emma Brunskill
   
-  Facebook_Video  Youtube_Video  Slides
+  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1555771847847382/) · Youtube · Slides
+
+- **A Primer on Optimal Transport** by Marco Cuturi, Justin M Solomon
+  
+  Facebook_Video  Youtube  Slides
 
 - **Deep Probabilistic Modelling with Gaussian Processes** by Neil D Lawrence
   
-  Facebook_Video  Youtube_Video  Slides
+  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1552223308202236/) · Youtube · Slides
 
 - **Fairness in Machine Learning** by Solon Barocas, Moritz Hardt
   
-  Facebook_Video  Youtube_Video  Slides
+  Facebook_Video  Youtube  Slides
 
 - **Statistical Relational Artificial Intelligence: Logic, Probability and Computation** by Luc De Raedt, David Poole, Kristian Kersting, Sriraam Natarajan
   
-  Facebook_Video  Youtube_Video  Slides
+  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1552222671535633/)  Youtube  Slides
 
 - **Engineering and Reverse-Engineering Intelligence Using Probabilistic Programs, Program Induction, and Deep Learning** by Josh Tenenbaum, Vikash K Mansinghka
   
-  Facebook_Video  Youtube_Video  Slides
+  Facebook_Video  Youtube  Slides
 
 - **Differentially Private Machine Learning: Theory, Algorithms and Applications** by Kamalika Chaudhuri, Anand D Sarwate
   
-  Facebook_Video  Youtube_Video  Slides
+  Facebook_Video  Youtube  Slides
 
 - **Geometric Deep Learning on Graphs and Manifolds** by Michael Bronstein, Joan Bruna, arthur szlam, Xavier Bresson, Yann LeCun
   
