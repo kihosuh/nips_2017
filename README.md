@@ -8,8 +8,9 @@ Tutorials
 Symposiums
 Workshops
 
-## Keynotes
-
+## Keynotes and Opening Remarks
+- **Opening Remarks** by Terrence Sejnowki
+  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1552610871496813/) · Youtube · Slides
 
 ## Invited Talks
 
@@ -26,23 +27,23 @@ Workshops
 
 - **The Unreasonable Effectiveness of Structure** by Lise Getoor
   
-  Facebook_Video  Youtube_Video  Slides
+  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1554329184658315/) · Youtube_Video · Slides
 
 - **Deep Learning for Robotics** by Pieter Abbeel
   
-  Facebook_Video  Youtube_Video  Slides
+  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1554594181298482/) · Youtube_Video · Slides
 
 - **Learning State Representations** by Yael Niv
   
-  Facebook_Video  Youtube_Video  Slides
+  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1555427447881822/) · Youtube_Video · Slides
 
 - **On Bayesian Deep Learning and Deep Bayesian Learning** by Yee Whye Teh
   
-  Facebook_Video  Youtube_Video  Slides
+  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1555493854541848/) · Youtube_Video · Slides
 
 - **AlphaZero - Mastering Games without human knowledge** by David Silver
   
-  Facebook_Video  Youtube_Video  Slides
+  Facebook_Video · Youtube_Video · Slides
 
 
 ## Tutorials
@@ -69,11 +70,11 @@ Workshops
 
 - **Statistical Relational Artificial Intelligence: Logic, Probability and Computation** by Luc De Raedt, David Poole, Kristian Kersting, Sriraam Natarajan
   
-  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1552222671535633/)  Youtube  Slides
+  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1552222671535633/) · Youtube · Slides
 
 - **Engineering and Reverse-Engineering Intelligence Using Probabilistic Programs, Program Induction, and Deep Learning** by Josh Tenenbaum, Vikash K Mansinghka
   
-  Facebook_Video  Youtube  Slides
+  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1552446408179926/)  Youtube  Slides
 
 - **Differentially Private Machine Learning: Theory, Algorithms and Applications** by Kamalika Chaudhuri, Anand D Sarwate
   
