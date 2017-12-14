@@ -49,7 +49,7 @@ Workshops
 
 - **Deep Learning: Practice and Trends** by Nando de Freitas, Scott Reed, Oriol Vinyals
   
-  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1552060484885185/) · [[Youtube]](https://www.youtube.com/watch?v=YJnddoa8sHk) · [[Slides]] (https://docs.google.com/presentation/d/e/2PACX-1vQMZsWfjjLLz_wi8iaMxHKawuTkdqeA3Gw00wy5dBHLhAkuLEvhB7k-4LcO5RQEVFzZXfS6ByABaRr4/pub?slide=id.g2b178fe261_0_1280)
+  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1552060484885185/) · [[Youtube]](https://www.youtube.com/watch?v=YJnddoa8sHk) · [[Slides]](https://docs.google.com/presentation/d/e/2PACX-1vQMZsWfjjLLz_wi8iaMxHKawuTkdqeA3Gw00wy5dBHLhAkuLEvhB7k-4LcO5RQEVFzZXfS6ByABaRr4/pub?slide=id.g2b178fe261_0_1280)
 
 - **Reinforcement Learning with People** by Emma Brunskill
   
