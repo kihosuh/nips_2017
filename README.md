@@ -47,7 +47,7 @@ Currently collecting and feel free to pull requests, make issues or give feedbac
 
 - **Geometric Deep Learning on Graphs and Manifolds** by Michael Bronstein, Joan Bruna, arthur szlam, Xavier Bresson, Yann LeCun
   
-  Facebook_Video · Youtube · Slides
+  Facebook_Video · [[Youtube]](https://www.youtube.com/watch?v=LvmjbXZyoP0) · Slides
   
   This website is a treasure box for geometric deep learning. Check out http://geometricdeeplearning.com/
 
