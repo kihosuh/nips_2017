@@ -129,12 +129,23 @@ Currently collecting and feel free to pull requests, make issues or give feedbac
   
   (Safe and Nested Subgame Solving for Imperfect-Information Games, A graph-theoretic approach to multitasking, Information-theoretic analysis of generalization capability of learning algorithms, Net-Trim: Convex Pruning of Deep Neural Networks with Performance Guarantee, Clustering Billions of Reads for DNA Data Storage, On the Complexity of Learning Neural Networks, Multiplicative Weights Update with Constant Step-Size in Congestion Games: Convergence, Limit Cycles and Chaos, Estimating Mutual Information for Discrete-Continuous Mixtures)
   
-- **Algorithms, Optimization  (14:50~15:50)**
+- **Algorithms, Optimization (Tuesday 14:50~15:50)**
 
   [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1553537531404147/)
   
   (Streaming Weak Submodularity: Interpreting Neural Networks on the Fly, A Unified Approach to Interpreting Model Predictions, Unified representation of tractography and diffusion-weighted MRI data using sparse multidimensional arrays, Generalized Linear Model Regression under Distance-to-set Penalties, Decomposable Submodular Function Minimization: Discrete and Continuous, Unbiased estimates for linear regression via volume sampling, On Frank-Wolfe and Equilibrium Computation, On Separability of Loss Functions, and Revisiting Discriminative Vs Generative Models)
+  
+- **Deep Learning, Applications (Tuesday 16:20~18:00)**
 
+  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1553634558061111/)
+  
+  (Unsupervised object learning from dense equivariant image labelling, Interpretable and Globally Optimal Prediction for Textual Grounding using Image Concepts, Eigen-Distortions of Hierarchical Representations, Towards Accurate Binary Convolutional Neural Network, Deep Learning for Precipitation Nowcasting: A Benchmark and A New Model, Poincaré Embeddings for Learning Hierarchical Representations, Deep Hyperspherical Learning, What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?, One-Sided Unsupervised Domain Mapping, Deep Mean-Shift Priors for Image Restoration, Deep Voice 2: Multi-Speaker Neural Text-to-Speech, Graph Matching via Multiplicative Update Algorithm, Dynamic Routing Between Capsules, Modulating early visual processing by language)
+
+- **Algorithms (Tuesday 16:20~18:00)**
+
+  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1553635538061013/)
+  
+  (A Linear-Time Kernel Goodness-of-Fit Test, Generalization Properties of Learning with Random Features, Communication-Efficient Distributed Learning of Discrete Distributions, Optimistic posterior sampling for reinforcement learning: worst-case regret bounds, Regret Analysis for Continuous Dueling Bandit, Minimal Exploration in Structured Stochastic Bandits, Fast Rates for Bandit Optimization with Upper-Confidence Frank-Wolfe, Diving into the shallows: a computational perspective on large-scale shallow learning, Monte-Carlo Tree Search by Best Arm Identification, A framework for Multi-A(rmed)/B(andit) Testing with Online FDR Control, Parameter-Free Online Learning via Model Selection, Bregman Divergence for Stochastic Variance Reduction: Saddle-Point and Adversarial Prediction, Gaussian Quadrature for Kernel Features, Learning Linear Dynamical Systems via Spectral Filtering)
 
 - **Videos of papers recorded before the conference** 
   
