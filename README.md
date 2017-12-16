@@ -112,17 +112,27 @@ Currently collecting and feel free to pull requests, make issues or give feedbac
 
 ## Orals and Spotlights
 - **Algorithm (Tuesday)** 
+
   [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1553335844757649/)
 
   • Diffusion Approximations for Online Principal Component Estimation and Global Convergence
+  
   • Positive-Unlabeled Learning with Non-Negative Risk Estimator
+  
   • An Applied Algorithmic Foundation for Hierarchical Clustering
+  
   • Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results
+  
   • QSGD: Communication-Efficient SGD via Gradient Quantization and Encoding
+  
   • Inhomogeneous Hypergraph Clustering with Applications
+  
   • K-Medoids for K-Means Seeding
+  
   • Online Learning with Transductive Regret
+  
   • Matrix Norm Estimation from a Few Entries
+  
   • Semisupervised Clustering, AND-Queries and Locally Encodable Source Coding
   
 
