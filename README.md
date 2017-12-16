@@ -111,20 +111,32 @@ Currently collecting and feel free to pull requests, make issues or give feedbac
 
 
 ## Orals and Spotlights
-- **Algorithm (Tuesday)** 
+- **Algorithm (Tuesday 10:40~12:00)** 
 
   [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1553335844757649/)
 
   (Diffusion Approximations for Online Principal Component Estimation and Global Convergence,   Positive-Unlabeled Learning with Non-         Negative Risk Estimator,    An Applied Algorithmic Foundation for Hierarchical Clustering,    Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results,    QSGD: Communication-Efficient SGD via Gradient Quantization and Encoding,   Inhomogeneous Hypergraph Clustering with Applications,    K-Medoids for K-Means Seeding, Online Learning with Transductive Regret,    Matrix Norm Estimation from a Few Entries,    Semisupervised Clustering, AND-Queries and Locally Encodable Source Coding) 
 
-- **Optimization (Tuesday)**
+- **Optimization (Tuesday 10:40~12:00)**
 
   [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1553355798088987/)
   
   (On the Optimization Landscape of Tensor Decompositions, Robust Optimization for Non-Convex Objectives, Bayesian Optimization with Gradients, Gradient Descent Can Take Exponential Time to Escape Saddle Points, Near-linear time approximation algorithms for optimal transport via Sinkhorn iteration, Limitations on Variance-Reduction and Acceleration Schemes for Finite Sums Optimization, Implicit Regularization in Matrix Factorization, Linear Convergence of a Frank-Wolfe Type Algorithm over Trace-Norm Balls, Acceleration and Averaging in Stochastic Descent Dynamics, When Cyclic Coordinate Descent Beats Randomized Coordinate Descent)
 
+- **Theory (Tuesday 14:50~15:50)**
 
-- **Videos of a number of papers recorded before the conference** 
+  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1553355798088987/)
+  
+  (Safe and Nested Subgame Solving for Imperfect-Information Games, A graph-theoretic approach to multitasking, Information-theoretic analysis of generalization capability of learning algorithms, Net-Trim: Convex Pruning of Deep Neural Networks with Performance Guarantee, Clustering Billions of Reads for DNA Data Storage, On the Complexity of Learning Neural Networks, Multiplicative Weights Update with Constant Step-Size in Congestion Games: Convergence, Limit Cycles and Chaos, Estimating Mutual Information for Discrete-Continuous Mixtures)
+  
+- **Algorithms, Optimization  (14:50~15:50)**
+
+  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1553537531404147/)
+  
+  (Streaming Weak Submodularity: Interpreting Neural Networks on the Fly, A Unified Approach to Interpreting Model Predictions, Unified representation of tractography and diffusion-weighted MRI data using sparse multidimensional arrays, Generalized Linear Model Regression under Distance-to-set Penalties, Decomposable Submodular Function Minimization: Discrete and Continuous, Unbiased estimates for linear regression via volume sampling, On Frank-Wolfe and Equilibrium Computation, On Separability of Loss Functions, and Revisiting Discriminative Vs Generative Models)
+
+
+- **Videos of papers recorded before the conference** 
   
   [[Video]](https://nips.cc/Conferences/2017/Videos)
 
