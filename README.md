@@ -96,6 +96,10 @@ Currently collecting and feel free to pull requests, make issues or give feedbac
 - **GANs for Creativity and Design** by Ian Goodfellow
 
   Facebook_Video · Youtube · [[Slides]](http://www.iangoodfellow.com/slides/2017-12-08-creativity.pdf)
+
+- **GANs for Limited Labeled Data** by Ian Goodfellow
+
+  Facebook_Video · Youtube · [[Slides]](http://www.iangoodfellow.com/slides/2017-12-09-label.pdf)
   
 - **Machine Learning for Systems and Systems for Machine Learning** by Jeff Dean
   
