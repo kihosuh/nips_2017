@@ -84,7 +84,7 @@ Currently collecting and feel free to pull requests, make issues or give feedbac
 
 - **On Bayesian Deep Learning and Deep Bayesian Learning** by Yee Whye Teh
   
-  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1555493854541848/) · [[Youtube]](https://www.youtube.com/watch?v=YJnddoa8sHk) · Slides
+  [[Facebook_Video]](https://www.facebook.com/nipsfoundation/videos/1555493854541848/) · [[Youtube]](https://www.youtube.com/watch?v=LVBvJsTr3rg) · Slides
 
 
 ## Symposiums and Workshops 
